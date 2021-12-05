@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'Tớ biết mà 🥰. Tớ cũng yêu cậu 😘😘',
     messDesc: 'Hôm nay kết thúc Trái tim tình nguyện 2021 rồi, chúng ta cũng cùng kết thúc chuỗi ngày độc thân nha. Làm người yêu tớ nhé 🥰',
     btnAccept: 'Nhắn tin lại cho tớ đi nào <3',
-    messLink: 'https://www.facebook.com/keen.2909. 
+    messLink: 'https://www.facebook.com/keen.2909',
 }
